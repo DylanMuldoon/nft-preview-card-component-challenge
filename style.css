@@ -1,0 +1,41 @@
+/* ******************************* */
+/* GENERAL */
+/* ******************************* */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  line-height: 1.2;
+  font-weight: 300;
+  color: #8bacda;
+  background-color: #0d192b;
+}
+
+main {
+  height: 100vh;
+
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ******************************* */
+/* NFT CARD */
+/* ******************************* */
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
